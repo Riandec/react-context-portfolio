@@ -1,6 +1,6 @@
 ### Learn React useContext
-Tutorial: https://youtu.be/3haEBHKLrKI?si=F3D_e6L5nARcabqX
-Portfolio builder: https://gitconnected.com/riandec
+Tutorial: https://youtu.be/3haEBHKLrKI?si=F3D_e6L5nARcabqX <br>
+Portfolio builder: https://gitconnected.com/riandec <br>
 Json: https://gitconnected.com/v1/portfolio/riandec
 
 ### React + Vite
