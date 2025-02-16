@@ -1,8 +1,9 @@
 # Learn React useContext
 Tutorial: https://youtu.be/3haEBHKLrKI?si=F3D_e6L5nARcabqX <br>
 Portfolio builder: https://gitconnected.com/riandec <br>
-Json: https://gitconnected.com/v1/portfolio/riandec <br><br>
-This is the result page from screenshot <br>
+Json: https://gitconnected.com/v1/portfolio/riandec <br>
+
+This is the screenshot of the results page <br>
 <img src="img/Screenshot Home.png">
 
 <img src="img/Screenshot About.png">
